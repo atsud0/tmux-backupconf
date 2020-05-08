@@ -1,5 +1,7 @@
 # tmux-backupconf
 
+系统环境Arch Linux
+
 配置文件基于[gpakosz](https://github.com/gpakosz/.tmux)
 
 此配置文件中,暂时不知道为什么tmux-continuum不会生效,可不安装
