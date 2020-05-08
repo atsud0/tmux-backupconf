@@ -13,6 +13,7 @@
 - 允许将tmux缓冲区内容复制到系统剪贴板
 - 新面板默认为当前路径
 - 添加了tmux-continuum和tmux-Resurrect和tpm三个插件
+- 取消C+a的按键绑定
 
 插件安装地址
 - [tpm](https://github.com/tmux-plugins/tpm)
