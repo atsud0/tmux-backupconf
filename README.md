@@ -21,8 +21,11 @@
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
 安装方式:
+
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
 git clone https://github.com/tmux-plugins/tmux-resurrect ~/.tmux/plugins/tmux-resurrect
+
 git clone https://github.com/tmux-plugins/tmux-continuum ~/.tmux/plugins/tmux-continuum
 
 复制到系统剪贴板要安装`xsel or xclip`这两个东西
