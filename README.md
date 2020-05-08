@@ -20,4 +20,4 @@
 - [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 - [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum)
 
-取消C+A的按键绑定要在.tmux.conf中修改
+复制到系统剪贴板要安装`xsel or xclip`这两个东西
