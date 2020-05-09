@@ -22,6 +22,8 @@
 
 安装方式:
 ```
+cd
+git clone https://github.com/gpakosz/.tmux.git
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 git clone https://github.com/tmux-plugins/tmux-resurrect ~/.tmux/plugins/tmux-resurrect
 git clone https://github.com/tmux-plugins/tmux-continuum ~/.tmux/plugins/tmux-continuum
